@@ -4,6 +4,4 @@ A results-oriented SEO & social media marketing team based in Vancouver that hel
 
 <b>PhotoBombz Photobooth</b> - A start-up photobooth company deciding whether to deploy more resources for growth or to cut losses and exit business
 
-<img src="PhotoBombz Photobooth.pdf"
-     alt="PhotoBombz Photobooth PowerPoint"
-     style="float: left; margin-right: 10px;" />
+<a href="https://drive.google.com/open?id=0B1Gc0Sm_m33wUFVYTUZodW10WVU">PhotoBombz Photobooth</a>
